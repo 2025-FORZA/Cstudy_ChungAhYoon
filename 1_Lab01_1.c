@@ -1,16 +1,12 @@
 // c
-#if 01
+#if 0
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main(void)
 {
-    int x, y;
+    printf("Hello World!");
 
-    scanf("%d %d", &x, &y);
-
-    printf("%d", x + y);
-    
     return 0;
 }
 #endif
