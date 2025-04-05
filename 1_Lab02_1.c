@@ -1,4 +1,4 @@
-// c
+// c 11382
 #if 01
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
